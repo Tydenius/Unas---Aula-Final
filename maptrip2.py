@@ -57,4 +57,4 @@ else:
 
   ponto_verde.add_to(mapa)
   ponto_vermelho.add_to(mapa)
-  mapa.show_in_browser()#vai abrir no navegador o seu mapa
+  mapa.show_in_browser() #vai abrir no navegador o seu mapa
